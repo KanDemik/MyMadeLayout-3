@@ -1,0 +1,55 @@
+.all-projects {
+	background-color: #F6F6F8;
+	height: 776px;
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
+
+.all-project-title {
+	text-align: center;
+	width: 730px;
+	margin: auto;
+	margin-bottom: 70px;
+}
+
+.all-project-title h2 {
+	font-size: 36px;
+	font-family: "Montserrat-Bold";
+	margin-bottom: 50px;
+}
+
+.all-project-title p {
+	font-size: 16px;
+	line-height: 25.36px;
+	color: #999999;
+}
+
+.all-project-img-item {
+	width: 255px;
+	height: 255px;
+}
+
+.all-project-img {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.all-project-a {
+	width: 200px;
+	height: 45px;
+	background-color: #4985FF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 30px;
+	margin: 50px auto;
+}
+
+.all-project-a a {
+	font-size: 16px;
+	color: #fff;
+	text-decoration: none;
+	font-family: "Montserrat-Medium";
+}
